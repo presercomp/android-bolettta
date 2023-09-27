@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bolettta</string>
+    <string name="app_title">Bolettta</string>
+    <string name="app_subtitle">Calcula tu boleta de honorarios</string>
+    <string name="header_description">Encabezado Bolettta Honorarios</string>
+    <string name="hint_amount">$ monto</string>
+    <string name="hint_percentage">% retención</string>
+    <string name="per_11_50">11.5%</string>
+    <string name="per_12_25">12.25%</string>
+    <string name="per_13_00">13%</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="txt_net">
+        Si el pacto fue en valores líquidos, su boleta debe hacerla por:
+    </string>
+    <string name="txt_bru">
+        Si el pacto fue en valores brutos, su boleta debe hacerla por:
+    </string>
+    <string name="zero_value">0</string>
+</resources>
